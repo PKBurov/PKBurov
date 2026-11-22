@@ -55,8 +55,9 @@ I'm a backend and infrastructure engineer who loves **orchestration** — making
 
 <p align="center">
   <a href="https://github.com/PKBurov/beeper-chat-summarizer"><img alt="beeper-chat-summarizer" src="https://img.shields.io/badge/beeper--chat--summarizer-2ea44f?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <br/>
-  <sub>Fully local, privacy-first AI chat summarizer for Beeper — MCP, n8n, Postgres, Ollama.</sub>
+  <a href="https://github.com/PKBurov/fmi-coursework"><img alt="fmi-coursework" src="https://img.shields.io/badge/fmi--coursework-2ea44f?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/PKBurov/tu-coursework"><img alt="tu-coursework" src="https://img.shields.io/badge/tu--coursework-2ea44f?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/PKBurov/personal-projects"><img alt="personal-projects" src="https://img.shields.io/badge/personal--projects-2ea44f?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
