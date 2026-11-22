@@ -6,20 +6,7 @@ At **Gameloft** that is the backend that game servers for live titles run on: Go
 
 ### Now running
 
-```text
-> orchestrator, what is running?
-
-orchestrator       plans the work, hands it out, checks what comes back
-│
-├─ argus           Workmatic's invoice pilot
-│                  invoice → extraction → six checks → proposed posting → accountant confirms
-│                  18 export adapters, NetSuite and SAF-T among them · 117 integration tests
-├─ models          one way to call several LLM providers, with retry and fallback
-├─ inference       self-hosted Qwen and Llama, for data that has to stay on premises
-├─ agents          a pipeline that takes software work from plan to review, built with
-│                  my co-founder; a person approves every stage
-└─ game servers    the day job: provisioning, realms and configuration on Kubernetes
-```
+<img src="assets/now-running.svg" width="100%" alt="orchestrator, what is running? The orchestrator plans the work, hands it out and checks what comes back. argus: Workmatic's invoice pilot; invoice, extraction, six checks, proposed posting, accountant confirms; 18 export adapters, NetSuite and SAF-T among them; 117 integration tests. models: one way to call several LLM providers, with retry and fallback. inference: self-hosted Qwen and Llama, for data that has to stay on premises. agents: a pipeline that takes software work from plan to review, built with my co-founder; a person approves every stage. game servers: the day job: provisioning, realms and configuration on Kubernetes."/>
 
 ### Toolbox
 
