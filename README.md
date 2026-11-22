@@ -35,7 +35,7 @@ orchestrator       plans the work, hands it out, checks what comes back
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=f97316"/>
       <img alt="SQL" src="https://img.shields.io/badge/SQL-1f2937?style=flat-square"/>
       <img alt="Bash" src="https://img.shields.io/badge/Bash-1f2937?style=flat-square&logo=gnubash&logoColor=f97316"/>
-      <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-1f2937?style=flat-square"/>
+      <img alt="PowerShell" src="assets/badge-powershell.svg"/>
     </td>
   </tr>
   <tr>
@@ -52,9 +52,9 @@ orchestrator       plans the work, hands it out, checks what comes back
   <tr>
     <td><b>AI</b></td>
     <td>
-      <img alt="LLM agent backends" src="https://img.shields.io/badge/LLM%20agent%20backends-1f2937?style=flat-square"/>
+      <img alt="LLM agent backends" src="assets/badge-llm-agent-backends.svg"/>
       <img alt="Claude API" src="https://img.shields.io/badge/Claude%20API-1f2937?style=flat-square&logo=claude&logoColor=f97316"/>
-      <img alt="Qwen" src="https://img.shields.io/badge/Qwen-1f2937?style=flat-square"/>
+      <img alt="Qwen" src="https://img.shields.io/badge/Qwen-1f2937?style=flat-square&logo=qwen&logoColor=f97316"/>
       <img alt="Llama" src="https://img.shields.io/badge/Llama-1f2937?style=flat-square&logo=meta&logoColor=f97316"/>
       <img alt="Ollama" src="https://img.shields.io/badge/Ollama-1f2937?style=flat-square&logo=ollama&logoColor=f97316"/>
     </td>
