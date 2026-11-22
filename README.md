@@ -1,18 +1,10 @@
-<h1 align="center">Petar Burov</h1>
+<img src="assets/header.svg" width="100%" alt="Petar Burov. Software Engineer | Backend | Infrastructure | AI Systems"/>
 
 <p align="center">
-  <samp>Software Engineer · Backend &amp; Infrastructure</samp>
-  <br/>
-  <em>“I build the systems other software runs on.”</em>
+  <img src="assets/typing.svg" width="720" alt="Co-founder @ Workmatic"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/petar-burov-742abb354"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pkburov@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/PKBurov"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<br/>
+---
 
 ## 👋 About me
 
