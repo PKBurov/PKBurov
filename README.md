@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Petar Burov. Backend · Infrastructure · AI systems. I build the systems other software runs on."/>
+<img src="assets/banner.svg" width="100%" alt="Petar Burov. Backend · Infrastructure · AI systems. I build the systems other software runs on."/>
 
 I'm a backend and infrastructure engineer, and the part I like most is **orchestration**: getting many moving parts to behave as one system.
 
@@ -70,4 +70,4 @@ orchestrator       plans the work, hands it out, checks what comes back
 <a href="https://www.linkedin.com/in/petar-burov-742abb354"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f97316?style=for-the-badge"/></a>
 <a href="mailto:pkburov@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=f97316"/></a>
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+<img src="assets/line.svg" width="100%" alt=""/>
