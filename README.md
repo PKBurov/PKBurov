@@ -6,9 +6,16 @@
 
 ---
 
-## 👋 About me
+### About
 
-I'm a backend and infrastructure engineer who loves **orchestration** — making many moving pieces work as one. Three years building distributed systems in **Go, C++ and Python**: game servers on Kubernetes and Agones at **Gameloft**, a dependency-driven provisioning scheduler at **AOSSIA Healthcare**, and now the backend that LLM agents run on as co-founder of **Workmatic**.
+Backend and infrastructure engineer. I like **orchestration**: making many moving parts behave as one system.
+
+By day: Software Engineer, Infrastructure at **Gameloft** in Sofia, on the backend services that run game servers for live titles (Go, C++ and Python on Kubernetes with Agones).<br/>
+By night: co-founder of **Workmatic**, where I own the architecture and backend our LLM agents run on.
+
+Before that I worked on the job scheduler of a cloud-provisioning platform at **AOSSIA Healthcare**.
+
+---
 
 <p align="center">
   <b>Languages</b><br/>
