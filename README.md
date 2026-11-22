@@ -54,16 +54,17 @@ Argus:                      # Workmatic's invoice-processing pilot
 
 ---
 
+### AI & automation
+
 <p align="center">
-  <b>AI / LLM</b><br/>
-  <img src="https://img.shields.io/badge/LLM%20Agents-5A67D8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img alt="LLM agents" src="https://img.shields.io/badge/LLM%20agents-5A67D8?style=flat-square"/>
+  <img alt="Claude API" src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=claude&logoColor=white"/>
+  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-615CED?style=flat-square"/>
+  <img alt="Llama" src="https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
 
-<br/>
+---
 
 ## 🚀 Featured
 
