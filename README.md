@@ -17,6 +17,20 @@ Before that I worked on the job scheduler of a cloud-provisioning platform at **
 
 ---
 
+### What I'm working on
+
+```yaml
+Argus:                      # Workmatic's invoice-processing pilot
+  flow: "invoice -> extraction -> six checks -> proposed double-entry posting -> accountant confirms"
+  checks: [VAT, document type, company ID, duplicates, arithmetic, anomalies]
+  backend: "Node.js, with a model layer that retries and falls back across LLM providers"
+  exports: "18 adapters, including NetSuite and SAF-T"
+  tests: "117 integration tests"
+  inference: "self-hosted Qwen and Llama for data that has to stay on premises"
+```
+
+---
+
 <p align="center">
   <b>Languages</b><br/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
