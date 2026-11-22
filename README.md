@@ -72,8 +72,11 @@ Argus:                      # Workmatic's invoice-processing pilot
 
 ---
 
----
+### Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/petar-burov-742abb354">LinkedIn</a> · <a href="mailto:pkburov@gmail.com">Email</a> · <a href="https://github.com/PKBurov">GitHub</a>
+  <a href="https://www.linkedin.com/in/petar-burov-742abb354"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a>
+  <a href="mailto:pkburov@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<img src="assets/footer.svg" width="100%" alt=""/>
